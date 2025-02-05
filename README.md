@@ -1,6 +1,5 @@
-### Hi there 👋
-
-I am Shreya
+Hi there 👋
+I am Shreya Chavan and am currently doing a Master's degree in Computer Science from Northeastern University.
 
 <!--
 **srnc1210/srnc1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
